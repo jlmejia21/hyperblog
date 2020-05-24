@@ -10,3 +10,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * Trucos muy locos por el profesor
 * Las personalidades multiples de freddy
 * Ldsdssddsddsd
+* Ldsdssddsddsd
+* iinnninsinsins
+* Gisskmdaskmdksdm
