@@ -9,3 +9,4 @@ Un blog increible para el curso de Git y Github de Platzi
 * El verdadero amor por las buenas prácticas.
 * Trucos muy locos por el profesor
 * Las personalidades multiples de freddy
+* Ldsdssddsddsd
